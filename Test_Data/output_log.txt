@@ -1,0 +1,80 @@
+Initialize engine version: 4.6.2f1 (bd99309c2ad7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 560  (ID=0x1201)
+    Vendor:   NVIDIA
+    VRAM:     973 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Josh\Desktop\USB\Fling Whale\Test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Josh\Desktop\USB\Fling Whale\Test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Josh\Desktop\USB\Fling Whale\Test_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Josh\Desktop\USB\Fling Whale\Test_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Josh\Desktop\USB\Fling Whale\Test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Josh\Desktop\USB\Fling Whale\Test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Josh\Desktop\USB\Fling Whale\Test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Josh\Desktop\USB\Fling Whale\Test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Josh\Desktop\USB\Fling Whale\Test_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading D:\Josh\Desktop\USB\Fling Whale\Test_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+- Completed reload, in  0.070 seconds
+desktop: 1920x1080 60Hz; virtual: 3600x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: D:\Josh\Desktop\USB\Fling Whale\Test_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Josh\Desktop\USB\Fling Whale\Test_Data\Managed\System.dll (this message is harmless)
+Disconnected from Photon.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+OnCreatedRoom
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+OnJoinedRoom
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.348635 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 6104.
+Total: 2.081909 ms (FindLiveObjects: 0.305529 ms CreateObjectMapping: 0.049222 ms MarkObjects: 0.957072 ms  DeleteObjects: 0.020388 ms)
+
+Update
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Update
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Update
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Update
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Update
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Update
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+OnDisconnectedFromPhoton
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 4.654297 ms
+Ignoring Connect() because app gets closed. If this is an error, check PhotonHandler.AppQuits.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 273 unused Assets to reduce memory usage. Loaded Objects now: 280.
+Total: 15.831601 ms (FindLiveObjects: 0.024174 ms CreateObjectMapping: 0.047474 ms MarkObjects: 0.262423 ms  DeleteObjects: 14.474923 ms)
+
