@@ -4,10 +4,10 @@ Has working multiplayer and path generation.
 
 Text.exe is the executable.
 
-Navigate with path generation with:
-/goto x, y    --  Move towards position x, y 
-/stop         --  Stop moving
-/clear        --  Clear current generated path
-/wander       --  Move about randomly
-/pursuit      --  Pursuit the nearest other player
-/evade        --  Evade from the nearest other player
+Navigate with path generation with:  
+/goto x, y    --  Move towards position x, y   
+/stop         --  Stop moving  
+/clear        --  Clear current generated path  
+/wander       --  Move about randomly  
+/pursuit      --  Pursuit the nearest other player  
+/evade        --  Evade from the nearest other player  
